@@ -1,8 +1,8 @@
-package com.example.juc.day1;
+package com.example.juc.day1.thread;
 
 /**
  * @author : huang.zhangh
- * @Description: TODO
+ * @Description: Wait
  * @date Date : 2021-07-16 11:34 下午
  */
 public class WaitTest {

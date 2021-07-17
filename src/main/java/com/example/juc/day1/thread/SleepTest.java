@@ -1,4 +1,4 @@
-package com.example.juc.day1;
+package com.example.juc.day1.thread;
 /**
  * sleep方法的作用是让当前线程暂停指定的时间（毫秒），
  * sleep方法是最简单的方法，在上述的例子中也用到过，比较容易理解。

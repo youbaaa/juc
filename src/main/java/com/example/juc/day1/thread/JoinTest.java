@@ -1,4 +1,4 @@
-package com.example.juc.day1;
+package com.example.juc.day1.thread;
 /**
  * join方法的作用是父线程等待子线程执行完成后再执行，换句话说就是将异步执行的线程合并为同步的线程。
  * JDK中提供三个版本的join方法，其实现与wait方法类似，join()方法实际上执行的join(0)，

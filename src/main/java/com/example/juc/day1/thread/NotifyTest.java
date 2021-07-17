@@ -1,4 +1,4 @@
-package com.example.juc.day1;
+package com.example.juc.day1.thread;
 /**
  * 调用notify方法时只有线程Thread-0被唤醒，但是调用notifyAll时，所有的线程都被唤醒了。
  * <p>
